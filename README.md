@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, eu sou Suyanne Domingos! 👋
 
 <!--
 **suyanneDomingos/suyanneDomingos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/suyanneDomingos">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=suyanneDomingos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyanneDomingos&layout=compact&langs_count=16&theme=tokyonight"/>
+
+<img height="25cm" src="https://img.shields.io/badge/Instagram-suyanne_dom?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img height="25cm" src="https://img.shields.io/badge/LinkedIn-suyanne-gomes-da-silva-domingos?style=for-the-badge&logo=linkedin&logoColor=white"/>
