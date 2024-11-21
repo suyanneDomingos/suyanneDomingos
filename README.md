@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 <img height="30cm" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img height="30cm" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blac"/>
    <br><h1>Redes Sociais</h1>
-<img height="25cm" src="https://img.shields.io/badge/Instagram-suyanne_dom?style=for-the-badge&logo=instagram&logoColor=white"/>
-<img height="25cm" src="https://img.shields.io/badge/LinkedIn-suyanne-gomes-da-silva-domingos?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img height="25cm" href="https://www.instagram.com/suyanne_dom/profilecard/?igsh=MXJrMmt3YXNsN2x2" target="_blank" src="https://img.shields.io/badge/Instagram-suyanne_dom?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img height="25cm" href="https://www.linkedin.com/in/suyanne-gomes-da-silva-domingos-005b30302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+"/>
