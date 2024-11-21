@@ -18,6 +18,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/suyanneDomingos">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=suyanneDomingos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyanneDomingos&layout=compact&langs_count=16&theme=tokyonight"/>
-
+<img height="30cm" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img height="30cm" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img height="30cm" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blac"/>
+   <br><h1>Redes Sociais</h1>
 <img height="25cm" src="https://img.shields.io/badge/Instagram-suyanne_dom?style=for-the-badge&logo=instagram&logoColor=white"/>
 <img height="25cm" src="https://img.shields.io/badge/LinkedIn-suyanne-gomes-da-silva-domingos?style=for-the-badge&logo=linkedin&logoColor=white"/>
