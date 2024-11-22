@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/suyanneDomingos">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=suyanneDomingos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+-
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyanneDomingos&layout=compact&langs_count=16&theme=tokyonight"/>
 <img height="30cm" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img height="30cm" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
